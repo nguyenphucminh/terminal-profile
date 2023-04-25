@@ -69,6 +69,7 @@ terminal to use (which will wire up the plugins and the theme).
 The last command is to create a terminal profile that will set the colors and also set the font
 to be the Powerline one we installed earlier (required for the theme to display correctly).
 
+After clone project, we move to project and excute this:
 ```bash
 ./install_profile.sh
 ```
